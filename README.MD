@@ -71,8 +71,7 @@ El código fue analizado usando SonarCloud, verificando calidad, cobertura de pr
 
 Evidencia:
 
-[Adjunta aquí pantallazo del análisis de SonarCloud/SonarQube, si lo tienes.]
-(Si el profe no exige integración real, solo describe que usaste la herramienta y qué métricas revisaste).
+
 
 📝 Autor
 
