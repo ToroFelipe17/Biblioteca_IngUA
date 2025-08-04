@@ -31,17 +31,17 @@ git clone https://github.com/ToroFelipe17/biblioteca_ingenieria_software.git
 
 cd biblioteca_ingenieria_software
 
-2. Crea entorno virtual e instala dependencias
+### 2. Crea entorno virtual e instala dependencias
 
 python3 -m venv .venv
 source .venv/bin/activate    
 pip install -r requirements.txt
 
-3. Ejecuta el sistema
+### 3. Ejecuta el sistema
 
 python biblioteca.py
 
-4. Ejecuta las pruebas unitarias
+### 4. Ejecuta las pruebas unitarias
 
 pytest
 
