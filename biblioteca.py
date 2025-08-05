@@ -1,6 +1,8 @@
 from abc import ABC, abstractmethod
 from datetime import datetime
 
+ID_LIBRO_LABEL = "ID del libro: "
+
 # Clase Libro (SRP)
 class Libro:
     """
@@ -253,7 +255,7 @@ if __name__ == "__main__":
 
         elif opcion == "2":
             try:
-                id_libro = int(input("ID del libro: "))
+                id_libro = int(input(ID_LIBRO_LABEL))
                 titulo = input("Título del libro: ").strip()
                 autor = input("Autor del libro: ").strip()
                 biblioteca.agregar_libro(Libro(id_libro, titulo, autor))
