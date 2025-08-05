@@ -73,13 +73,13 @@ Evidencia:
 
 ![Mi imagen](https://github.com/ToroFelipe17/Biblioteca_IngUA/blob/cff00f4e9575f96aefaf83c1e019216f53e8cb63/Captura%20de%20pantalla%202025-08-04%20a%20la(s)%2019.23.08.png)
 
-https://github.com/ToroFelipe17/Biblioteca_IngUA/blob/cff00f4e9575f96aefaf83c1e019216f53e8cb63/Captura%20de%20pantalla%202025-08-04%20a%20la(s)%2019.23.31.png
+![Mi imagen](https://github.com/ToroFelipe17/Biblioteca_IngUA/blob/cff00f4e9575f96aefaf83c1e019216f53e8cb63/Captura%20de%20pantalla%202025-08-04%20a%20la(s)%2019.23.31.png)
 
-https://github.com/ToroFelipe17/Biblioteca_IngUA/blob/cff00f4e9575f96aefaf83c1e019216f53e8cb63/Captura%20de%20pantalla%202025-08-04%20a%20la(s)%2019.34.02.png
+![Mi imagen](https://github.com/ToroFelipe17/Biblioteca_IngUA/blob/cff00f4e9575f96aefaf83c1e019216f53e8cb63/Captura%20de%20pantalla%202025-08-04%20a%20la(s)%2019.34.02.png)
 
 Refactorización
 
-https://github.com/ToroFelipe17/Biblioteca_IngUA/blob/cff00f4e9575f96aefaf83c1e019216f53e8cb63/Captura%20de%20pantalla%202025-08-04%20a%20la(s)%2020.32.44.png
+![Mi imagen](https://github.com/ToroFelipe17/Biblioteca_IngUA/blob/cff00f4e9575f96aefaf83c1e019216f53e8cb63/Captura%20de%20pantalla%202025-08-04%20a%20la(s)%2020.32.44.png)
 
 📝 Autor
 
