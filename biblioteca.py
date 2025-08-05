@@ -1,7 +1,9 @@
 from abc import ABC, abstractmethod
 from datetime import datetime
 
+# Constante para evitar duplicidad de literales
 ID_LIBRO_LABEL = "ID del libro: "
+ID_USUARIO_LABEL = "ID del usuario: "
 
 # Clase Libro (SRP)
 class Libro:
@@ -246,7 +248,7 @@ if __name__ == "__main__":
 
         if opcion == "1":
             try:
-                id_usuario = int(input("ID de usuario: "))
+                id_usuario = int(input(ID_USUARIO_LABEL))
                 nombre = input("Nombre del usuario: ").strip()
                 biblioteca.registrar_usuario(Usuario(id_usuario, nombre))
                 print("Usuario registrado correctamente.")
@@ -275,8 +277,8 @@ if __name__ == "__main__":
 
         elif opcion == "4":
             try:
-                id_usuario = int(input("ID del usuario: "))
-                id_libro = int(input("ID del libro: "))
+                id_usuario = int(input(ID_USUARIO_LABEL))
+                id_libro = int(input(ID_LIBRO_LABEL))
                 prestamo = biblioteca.prestar_libro(id_usuario, id_libro)
                 if prestamo:
                     print("Libro prestado correctamente.")
@@ -287,8 +289,8 @@ if __name__ == "__main__":
 
         elif opcion == "5":
             try:
-                id_usuario = int(input("ID del usuario: "))
-                id_libro = int(input("ID del libro: "))
+                id_usuario = int(input(ID_USUARIO_LABEL))
+                id_libro = int(input(ID_LIBRO_LABEL))
                 multa = biblioteca.devolver_libro(id_usuario, id_libro)
                 if multa is not None:
                     print(f"Libro devuelto. Multa aplicada: ${multa}")
